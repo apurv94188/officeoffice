@@ -1,4 +1,4 @@
-console.log("starting the server")
+console.log("just adding the dev branch to github repo")
 //const http = require('http');
 const express = require('express')
 const dotenv = require('dotenv')    // why is this one used?
