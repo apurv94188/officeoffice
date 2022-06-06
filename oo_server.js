@@ -1,4 +1,4 @@
-console.log("just adding the dev branch to github repo")
+console.log("reached office office server")
 //const http = require('http');
 const express = require('express')
 const dotenv = require('dotenv')    // why is this one used?
@@ -12,4 +12,4 @@ express_app.listen(
       PORT,
       console.log(`Server running in ${process.env.NODE_ENBV} mode on port ${PORT}`)
 );
-console.log('bye tatae');
+console.log('ready to listen to your request');
